@@ -1,7 +1,6 @@
 import wx
 import random
-#/Users/luoman/PycharmProjects/find_breakfast/my_breakfast.py
-
+ 
 window = wx.App()
 class s_report(wx.Frame):
     def __init__(self):
